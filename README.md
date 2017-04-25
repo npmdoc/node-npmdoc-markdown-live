@@ -1,4 +1,7 @@
-# api documentation for  [markdown-live (v1.0.8)](https://github.com/mobily/markdown-live)  [![npm package](https://img.shields.io/npm/v/npmdoc-markdown-live.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-markdown-live) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-markdown-live.svg)](https://travis-ci.org/npmdoc/node-npmdoc-markdown-live)
+# npmdoc-markdown-live
+
+#### basic api documentation for  [markdown-live (v1.0.8)](https://github.com/mobily/markdown-live)  [![npm package](https://img.shields.io/npm/v/npmdoc-markdown-live.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-markdown-live) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-markdown-live.svg)](https://travis-ci.org/npmdoc/node-npmdoc-markdown-live)
+
 #### Markdown preview with live update.
 
 [![NPM](https://nodei.co/npm/markdown-live.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/markdown-live)
